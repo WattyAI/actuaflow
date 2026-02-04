@@ -1,0 +1,96 @@
+# ==========================================
+# 1. PYTHON TRASH (Bytecode)
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.pyc
+
+# ==========================================
+# 2. VIRTUAL ENVIRONMENTS
+# ==========================================
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+# If you use Conda
+.anaconda/
+conda-meta/
+
+# ==========================================
+# 3. DISTRIBUTION / BUILD (For PyPI)
+# ==========================================
+dist/
+build/
+*.egg-info/
+actuaflow.egg-info/
+.eggs/
+nosetests.xml
+pip-wheel-metadata/
+*.whl
+
+# ==========================================
+# 4. TESTING & COVERAGE
+# ==========================================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+cov_report.txt
+.tox/
+.nox/
+.hypothesis/
+
+# ==========================================
+# 5. SECRETS & CONFIG (NEVER UPLOAD)
+# ==========================================
+.env
+.env.local
+.flaskenv
+instance/
+secrets.json
+*.pem
+*.key
+
+# ==========================================
+# 6. EDITOR & OS JUNK
+# ==========================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.env.local
+
+# ==========================================
+# 7. DOCUMENTATION (Generated)
+# ==========================================
+docs/_build/
+site/
+.readthedocs.yaml
+
+# ==========================================
+# 8. PROJECT WORK / NOTES
+# ==========================================
+Changes/
+Notes/
+TODO/
+
+# ==========================================
+# 9. VIRTUAL ENVIRONMENTS (Local)
+# ==========================================
+test_env/
+
+# ==========================================
+# 10. OS FILES
+# ==========================================
+# --- OS Files ---
+desktop.ini
