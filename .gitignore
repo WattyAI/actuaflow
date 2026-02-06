@@ -75,7 +75,6 @@ Thumbs.db
 # ==========================================
 docs/_build/
 site/
-.readthedocs.yaml
 
 # ==========================================
 # 8. PROJECT WORK / NOTES
