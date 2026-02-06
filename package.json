@@ -1,0 +1,26 @@
+{
+  "name": "actuaflow",
+  "version": "1.0.0",
+  "description": "**Modern Actuarial Pricing Library for Non-Life Insurance**",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WattyAI/actuaflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WattyAI/actuaflow/issues"
+  },
+  "homepage": "https://github.com/WattyAI/actuaflow#readme"
+}
